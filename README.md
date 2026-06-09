@@ -1,9 +1,36 @@
-# 사용 예시
+# 소개
+
+갤럭시의 불필요한 앱 301개를 제거합니다.
+
+<br>
+
+Shizuku, Canta 앱을 사용합니다.
+
+<img width="1440" height="786" alt="Image" src="https://github.com/user-attachments/assets/463f9501-63c7-41ca-9a98-c43cde8fe0b6" />
+
+https://github.com/RikkaApps/Shizuku
+
+<br>
+
+<img width="1440" height="788" alt="Image" src="https://github.com/user-attachments/assets/82ca019c-f113-41dd-8368-3feb6eb9ddca" />
+
+https://github.com/samolego/Canta
+
+<br>
+
+# 사용 방법
 <img width="1440" height="2783" alt="Image" src="https://github.com/user-attachments/assets/a41ed996-3e23-402f-b61d-7df3bcf3c92a" />
+
+Preset.json 파일을 복사 붙여넣기 합니다.
+
+<br>
+
 <img width="1440" height="2783" alt="Image" src="https://github.com/user-attachments/assets/be9cd54a-0bf6-4345-80f3-dd34eb45e0be" />
 <img width="1440" height="2783" alt="Image" src="https://github.com/user-attachments/assets/8a41a048-5eea-4af5-adf5-8f9a7e7289ee" />
 
-<br><br>
+앱을 삭제합니다.
+
+<br>
 
 # 삭제할 앱
 
