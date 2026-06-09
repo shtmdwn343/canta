@@ -8,13 +8,13 @@ Canta, Shizuku 앱을 사용합니다.
 
 <img width="1440" height="786" alt="Image" src="https://github.com/user-attachments/assets/463f9501-63c7-41ca-9a98-c43cde8fe0b6" />
 
-https://github.com/RikkaApps/Shizuku
+https://github.com/samolego/Canta
 
 <br>
 
 <img width="1440" height="788" alt="Image" src="https://github.com/user-attachments/assets/82ca019c-f113-41dd-8368-3feb6eb9ddca" />
 
-https://github.com/samolego/Canta
+https://github.com/RikkaApps/Shizuku
 
 <br>
 
