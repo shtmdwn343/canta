@@ -21,7 +21,7 @@ https://github.com/RikkaApps/Shizuku
 # 사용 방법
 <img width="1440" height="2783" alt="Image" src="https://github.com/user-attachments/assets/a41ed996-3e23-402f-b61d-7df3bcf3c92a" />
 
-Preset.json 파일을 복사 붙여넣기 합니다.
+Preset.json 파일을 복사 붙여 넣기합니다.
 
 <br>
 
